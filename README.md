@@ -9,17 +9,12 @@
 # 📁 Repository Overview
 
 data-analysis/
-├── data_and_statistics/
-├── data_cleaning/
-├── visualization_pandas/
-├── analysis_matplotlib/
-├── visualization_seaborn/
-└── projects/
+├─── projects/
     ├── students_performance/
     ├── ecommerce_sales/
     ├── customer_behavior/
     ├── marketing_campaigns/
-    ├── bank_campaign/
+    ├── bank_marketing_campaign/
     └── car_sales/
 
 
